@@ -1,0 +1,7 @@
+
+* refine the precision of current control (now it's about 20mA, we can achieve 10mA in the Heatit library)
+
+* develop the SPI interconnection between multiple Heatit boards
+
+* improve documentation
+
